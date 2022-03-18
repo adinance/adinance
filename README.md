@@ -2,8 +2,6 @@
 
 ![Adinance's GitHub stats](https://github-readme-stats.vercel.app/api?username=adinance&count_private=true&show_icons=true&count_private=true&theme=radical)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adinance)
-
 <!--
 **adinance/adinance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
