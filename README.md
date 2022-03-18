@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ![Adinance's GitHub stats](https://github-readme-stats.vercel.app/api?username=adinance&count_private=true&show_icons=true&count_private=true)
 
