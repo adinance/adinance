@@ -2,7 +2,7 @@
 
 ![Adinance's GitHub stats](https://github-readme-stats.vercel.app/api?username=adinance&count_private=true&show_icons=true&count_private=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adinance&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adinance&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adinance)
 
